@@ -1,0 +1,13 @@
+# Dependencia externa - clonar de github.com/DivinumOfficium/divinum-officium
+divinum-officium/
+perl5/
+
+# Saidas geradas pelo gerador/ - regeneram com os scripts
+*.pdf
+*.html
+*.tsv
+
+__pycache__/
+*.pyc
+.pytest_cache/
+scratchpad/

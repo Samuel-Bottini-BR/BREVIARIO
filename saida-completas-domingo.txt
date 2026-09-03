@@ -1,0 +1,252 @@
+==============================================================================
+  COMPLETAS — Dominica — Rubricas de 1960
+==============================================================================
+
+-- Incipit --
+
+--- benedictio Completorium ---   (Psalterium/Common/Prayers.txt [benedictio Completorium])
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  @:Jube domne
+    LA  @:Benedictio Completorium_
+
+--- Amen ---   (Psalterium/Common/Prayers.txt [Amen])
+    LA  R. Amen.
+    PT  R. Amém.
+
+--- Lectio brevis ---   (Psalterium/Special/Minor Special.txt [Lectio Completorium])
+    LA  !1 Pet 5:8-9
+    PT  !1 Pet 5:8-9
+    LA  v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide.
+    PT  V. Irmãos: Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. Resisti-lhe, firmes na fé.
+    LA  $Tu autem
+    PT  $Tu autem
+
+--- Adjutorium nostrum ---   (Psalterium/Common/Prayers.txt [Adjutorium nostrum])
+    LA  V. Adjutórium nostrum + in nómine Dómini. 
+    PT  V. O nosso auxílio está + no nome do Senhor,
+    LA  R. Qui fecit cælum et terram.
+    PT  R. Que fez o céu e a terra.
+
+--- rubrica examen ---   (Psalterium/Common/Rubricae.txt [rubrica examen])
+    LA  /:Examen conscientiæ vel «Pater Noster» totum secreto.:/
+    PT  /:Segue-se um exame de consciência, ou um Pai Nosso em silêncio.:/
+
+--- Pater noster ---   (Psalterium/Common/Prayers.txt [Pater noster])
+    LA  v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.
+    PT  v. Pai Nosso, que estais nos céus, santificado seja o vosso Nome, venha a nós o vosso Reino; seja feita a vossa vontade assim na terra como no Céu. O pão nosso de cada dia nos dai hoje; Perdoai-nos as nossas dívidas, assim como nós perdoamos aos nossos devedores; e não nos deixeis cair em tentação; mas livrai-nos do mal. Amém.
+
+--- Confiteor ---   (Psalterium/Common/Prayers.txt [Confiteor])
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  @:Confiteor_
+
+--- Misereatur ---   (Psalterium/Common/Prayers.txt [Misereatur])
+    LA  v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.
+    PT  v. Compadeça-se de vós o Senhor omnipotente; vos perdoe os pecados e guie até à vida eterna.
+    PT  Amém.
+
+--- Indulgentiam ---   (Psalterium/Common/Prayers.txt [Indulgentiam])
+    LA  v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbuat nobis omnípotens et miséricors Dóminus. Amen.
+    PT  v. Que o Senhor + cruz omnipotente e misericordioso nos conceda o perdão, a absolvição e a remissão dos nossos pecados.
+    PT  Amém.
+
+--- Converte nos ---   (Psalterium/Common/Prayers.txt [Converte nos])
+    LA  V. Convérte nos +++ Deus, salutáris noster.
+    PT  V. Converte-nos, +++ ó Deus, nosso salvador: 
+    LA  R. Et avérte iram tuam a nobis.
+    PT  R. E afasta de nós a tua indignação.
+
+--- Deus in adjutorium ---   (Psalterium/Common/Prayers.txt [Deus in adjutorium])
+    LA  V. Deus + in adjutórium meum inténde.
+    PT  V. Deus, + vinde em meu auxílio.
+    LA  R. Dómine, ad adjuvándum me festína.
+    PT  R. Senhor, apressai-Vos em socorrer-me.
+    LA  v. Glória Patri, et Fílio, * et Spirítui Sancto.
+    PT  V. Glória ao Pai, e ao Filho e ao Espírito Santo.
+    LA  Sicut erat in princípio, et nunc, et semper, * et in sǽcula sæculórum. Amen.
+    PT  R. Como era no princípio, agora e sempre, e por todos os séculos dos séculos. Amém.
+
+  [&Alleluia]  <- calculado por funcao Perl, ainda nao portada
+
+--- Antifona (Dominica) ---   (Psalterium/Psalmi/Psalmi minor.txt [Completorium])
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  Ant. Miserére * mihi, Dómine, et exáudi oratiónem meam.
+
+--- Salmo 4 ---   (Psalterium/Psalmorum/Psalm4)
+    LA  4:2a Cum invocárem exaudívit me Deus justítiæ meæ: * in tribulatióne dilatásti mihi.
+    PT  4:2a Quando O invoquei, me ouviu o Deus da minha justiça: * na tribulação me dilatastes.
+    LA  4:2b Miserére mei, * et exáudi oratiónem meam.
+    PT  4:2b Tende compaixão de mim, * e escutai a minha oração.
+    LA  4:3 Fílii hóminum, úsquequo gravi corde? * ut quid dilígitis vanitátem, et quǽritis mendácium?
+    PT  4:3 Filhos dos homens, até quando duros de coração sereis? * Porque amais a vaidade e mentiras buscais?
+    LA  4:4 Et scitóte quóniam mirificávit Dóminus sanctum suum: * Dóminus exáudiet me cum clamávero ad eum.
+    PT  4:4 Sabei, pois, que o Senhor fez maravilhoso o seu santo: * o Senhor escutar-me-á, quando a Ele clamar.
+    LA  4:5 Irascímini, et nolíte peccáre: ‡ quæ dícitis in córdibus vestris, * in cubílibus vestris compungímini.
+    PT  4:5 Irai-vos e não pequeis: ‡ do que dizeis nos vossos corações, * nos vossos leitos arrependei-vos.
+    LA  4:6 Sacrificáte sacrifícium justítiæ, † et speráte in Dómino. * Multi dicunt: Quis osténdit nobis bona?
+    PT  4:6 Oferecei sacrifícios de justiça † e esperai no Senhor. * Muitos dizem: quem nos mostrará o bem?
+    LA  4:7 Signátum est super nos lumen vultus tui, Dómine: * dedísti lætítiam in corde meo.
+    PT  4:7 Gravada está sobre nós a luz de vossa face, ó Senhor: * no meu coração infundistes alegria.
+    LA  4:8 A fructu fruménti, vini, et ólei sui * multiplicáti sunt.
+    PT  4:8 Pelo fruto do seu trigo, vinho e azeite * se multiplicam.
+    LA  4:9 In pace in idípsum * dórmiam, et requiéscam;
+    PT  4:9 Em paz dormirei * e tranquilo descansarei;
+    LA  4:10 Quóniam tu, Dómine, singuláriter in spe * constituísti me.
+    PT  4:10 Porque Vós, ó Senhor, de forma singular * na esperança me firmastes.
+
+--- Salmo 90 ---   (Psalterium/Psalmorum/Psalm90)
+    LA  90:1 Qui hábitat in adjutório Altíssimi, * in protectióne Dei cæli commorábitur.
+    PT  90:1 O que habita à sombra do Altíssimo, * descansará na protecção do Deus do céu.
+    LA  90:2 Dicet Dómino: Suscéptor meus es tu, et refúgium meum: * Deus meus sperábo in eum.
+    PT  90:2 Dirá ao Senhor: Vós sois o meu defensor e o meu refúgio: * o meu Deus, em quem esperarei.
+    LA  90:3 Quóniam ipse liberávit me de láqueo venántium, * et a verbo áspero.
+    PT  90:3 Porque Ele me livrou do laço dos caçadores, * e da palavra áspera.
+    LA  90:4 Scápulis suis obumbrábit tibi: * et sub pennis ejus sperábis.
+    PT  90:4 Com seus ombros fazer-te-á sombra: * e debaixo das suas asas esperarás.
+    LA  90:5 Scuto circúmdabit te véritas ejus: * non timébis a timóre noctúrno,
+    PT  90:5 Cercar-te-á como um escudo a sua verdade: * assombros nocturnos não temerás,
+    LA  90:6 A sagítta volánte in die, † a negótio perambulánte in ténebris: * ab incúrsu, et dæmónio meridiáno.
+    PT  90:6 Da seta que voa de dia, † nem da trama que ambula nas trevas: * de assaltos, nem do demónio do meio-dia.
+    LA  90:7 Cadent a látere tuo mille, † et decem míllia a dextris tuis: * ad te autem non appropinquábit.
+    PT  90:7 Cairão mil a teu lado † e dez mil à tua direita: * mas se não aproximará de ti.
+    LA  90:8 Verúmtamen óculis tuis considerábis: * et retributiónem peccatórum vidébis.
+    PT  90:8 Com teus olhos então contemplarás: * e verás o castigo dos pecadores.
+    LA  90:9 Quóniam tu es, Dómine, spes mea: * Altíssimum posuísti refúgium tuum.
+    PT  90:9 Porque Vós sois, ó Senhor, a minha esperança: * o Altíssimo tomaste por teu refúgio.
+    LA  90:10 Non accédet ad te malum: * et flagéllum non appropinquábit tabernáculo tuo.
+    PT  90:10 O mal não virá sobre ti: * e o flagelo se não aproximará de tua tenda.
+    LA  90:11 Quóniam Ángelis suis mandávit de te: * ut custódiant te in ómnibus viis tuis.
+    PT  90:11 Porque mandou os seus anjos a ti: * para que te velem em todos teus caminhos.
+    LA  90:12 In mánibus portábunt te: * ne forte offéndas ad lápidem pedem tuum.
+    PT  90:12 Eles levar-te-ão nas suas mãos: * para que não tropece o teu pé em pedra alguma.
+    LA  90:13 Super áspidem, et basilíscum ambulábis: * et conculcábis leónem et dracónem.
+    PT  90:13 Sobre a víbora e o basilisco andarás: * e calcarás o leão e o dragão.
+    LA  90:14 Quóniam in me sperávit, liberábo eum: * prótegam eum, quóniam cognóvit nomen meum.
+    PT  90:14 Porque esperou em mim, livrá-lo-ei: * protegê-lo-ei, porque conheceu o meu nome.
+    LA  90:15 Clamábit ad me, et ego exáudiam eum: ‡ cum ipso sum in tribulatióne: * erípiam eum et glorificábo eum.
+    PT  90:15 A mim clamará e eu o ouvirei: ‡ com ele estou na tribulação, * livrá-lo-ei e glorificá-lo-ei.
+    LA  90:16 Longitúdine diérum replébo eum: * et osténdam illi salutáre meum.
+    PT  90:16 Enchê-lo-ei de longos dias: * e mostrar-lhe-ei a minha salvação.
+
+--- Salmo 133 ---   (Psalterium/Psalmorum/Psalm133)
+    LA  133:1a Ecce nunc benedícite Dóminum, * omnes servi Dómini:
+    PT  133:1a Agora, pois, bendizei o Senhor, * todos os servos do Senhor:
+    LA  133:1b Qui statis in domo Dómini, * in átriis domus Dei nostri.
+    PT  133:1b Vós que estais na casa do Senhor, * nos átrios da casa do nosso Deus.
+    LA  133:2 In nóctibus extóllite manus vestras in sancta, * et benedícite Dóminum.
+    PT  133:2 De noite levantai as vossas mãos para o santuário, * e bendizei o Senhor.
+    LA  133:3 Benedícat te Dóminus ex Sion, * qui fecit cælum et terram.
+    PT  133:3 Te abençoe de Sião o Senhor, * que fez o céu e a terra.
+
+--- Antifona repetida ---   (Psalterium/Psalmi/Psalmi minor.txt)
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  Ant. Miserére * mihi, Dómine, et exáudi oratiónem meam.
+
+--- Hymnus ---   (Psalterium/Special/Minor Special.txt [Hymnus Completorium])
+    LA  v. Te lucis ante términum,
+    PT  V. Antes que a luz desapareça,
+    LA  Rerum Creátor, póscimus,
+    PT  Nós vos suplicamos, Criador de todas as coisas,
+    LA  Ut pro tua cleméntia
+    PT  Que sejais, por vossa clêmencia,
+    LA  Sis præsul et custódia.
+    PT  Nosso protetor e nosso guarda.
+    LA  _
+    PT  _
+    LA  Procul recédant sómnia,
+    PT  Longe de nós os sonhos e os fantasmas da noite!
+    LA  Et nóctium phantásmata;
+    PT  Reprimi o nosso inimigo,
+    LA  Hostémque nostrum cómprime,
+    PT  A fim de que nada manche os nossos corpos.
+    LA  Ne polluántur córpora.
+    PT  _
+    LA  _
+    PT  Concedei-nos esta graça, ó Pai misericordioso,
+    LA  * Præsta, Pater piíssime,
+    PT  E Vós, ó Filho Unigênito,
+    LA  Patríque compar Únice,
+    PT  Que reinais com o Espírito Santo,
+    LA  Cum Spíritu Paráclito
+    PT  Por todos os séculos.
+    LA  Regnans per omne sǽculum.
+    PT  Amém.
+    LA  Amen.
+
+--- Capitulum Responsorium Versus ---   (Psalterium/Special/Minor Special.txt [Completorium])
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  @:Completorium_
+
+--- Canticum: Nunc dimittis ---   (Psalterium/Psalmorum/Psalm233.txt [__preambulo])
+    LA  2:30 Quia vidérunt óculi mei * salutáre tuum,
+    PT  2:30 porque meus olhos * viram a salvação,
+    LA  2:31 Quod parásti * ante fáciem ómnium populórum,
+    PT  2:31 que oferecestes * a todos os povos:
+    LA  2:32 Lumen ad revelatiónem géntium, * et glóriam plebis tuæ Israël.
+    PT  2:32 luz para se revelar às nações * e glória de Israel, vosso povo.
+
+-- Oratio --
+
+  [&Dominus_vobiscum]  <- calculado por funcao Perl, ainda nao portada
+
+--- Oremus ---   (Psalterium/Common/Prayers.txt [Oremus])
+    LA  v. Orémus.
+    PT  v. Oremos
+
+--- oratio_Visita ---   (Psalterium/Common/Prayers.txt [oratio_Visita])
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  @:Oratio Visita_
+
+--- Per Dominum ---   (Psalterium/Common/Prayers.txt [Per Dominum])
+    LA  r. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+    PT  r. Por Nosso Senhor Jesus, vosso Filho, que convosco vive e reina em unidade do Espírito Santo, Deus, por todos os séculos dos séculos.
+    LA  R. Amen.
+    PT  R. Amém.
+
+-- Conclusio --
+
+  [&Dominus_vobiscum]  <- calculado por funcao Perl, ainda nao portada
+
+  [&Benedicamus_Domino]  <- calculado por funcao Perl, ainda nao portada
+
+--- benedictio Completorium Final ---   (Psalterium/Common/Prayers.txt [benedictio Completorium Final])
+    LACUNA: nao ha portugues; imprime-se o latim
+    LA  @:Benedictio Completorium2
+
+--- Amen ---   (Psalterium/Common/Prayers.txt [Amen])
+    LA  R. Amen.
+    PT  R. Amém.
+
+--- Antiphona finalis ---   (Psalterium/Mariaant.txt [Ant Maria4])
+    VAZIO: nao encontrei texto para esta peca
+
+==============================================================================
+  LACUNAS DE TRADUCAO NESTA HORA
+==============================================================================
+  falta portugues: Psalterium/Common/Prayers.txt [benedictio Completorium]
+  falta portugues: Psalterium/Common/Prayers.txt [Confiteor]
+  falta portugues: Psalterium/Psalmi/Psalmi minor.txt [Completorium]
+  falta portugues: Psalterium/Special/Minor Special.txt [Completorium]
+  falta portugues: Psalterium/Common/Prayers.txt [oratio_Visita]
+  falta portugues: Psalterium/Common/Prayers.txt [benedictio Completorium Final]
+  total: 6 pecas sem traducao
+
+==============================================================================
+  AUDITORIA — verificacoes 1 e 2 do prompt
+==============================================================================
+  dados de controle escapados : 0
+  ponteiros nao resolvidos    : 10
+      LA em benedictio Completorium: @:Jube domne
+      LA em benedictio Completorium: @:Benedictio Completorium_
+      LA em Lectio brevis: !1 Pet 5:8-9
+      LA em Lectio brevis: $Tu autem
+      PT em Lectio brevis: !1 Pet 5:8-9
+      PT em Lectio brevis: $Tu autem
+      LA em Confiteor: @:Confiteor_
+      LA em Capitulum Responsorium Versus: @:Completorium_
+      LA em oratio_Visita: @:Oratio Visita_
+      LA em benedictio Completorium Final: @:Benedictio Completorium2
+  idiomas lidos               : Latin, Portugues
+  arquivos abertos            : 19
+
+  Esperado nesta etapa: o resolvedor de remissoes ainda nao existe.
+  Nenhum destes pode sobreviver ate o PDF.

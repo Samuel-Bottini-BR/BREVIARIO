@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="bookid">0fcdb866-fa57-4d9f-b14d-b0d1ec820b9f</dc:identifier>
+    <dc:contributor opf:role="bkp"/>
+    <dc:date opf:event="creation">2026-01-11</dc:date>
+    <dc:creator opf:role="aut">www.divinumofficium.com</dc:creator>
+    <dc:language>la</dc:language>
+    <dc:title>Divinum officium</dc:title>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="coverpage" href="Text/coverpage.html" media-type="application/xhtml+xml"/>
+    <item id="titlepage" href="Text/titlepage.html" media-type="application/xhtml+xml"/>
+    <item id="style" href="css/style.css" media-type="text/css"/>
+    <item id="B1" href="Text/08-01-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B2" href="Text/08-02-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B3" href="Text/08-03-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B4" href="Text/08-04-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B5" href="Text/08-05-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B6" href="Text/08-06-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B7" href="Text/08-07-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B8" href="Text/08-08-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B9" href="Text/08-09-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B10" href="Text/08-10-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B11" href="Text/08-11-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B12" href="Text/08-12-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B13" href="Text/08-13-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B14" href="Text/08-14-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B15" href="Text/08-15-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B16" href="Text/08-16-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B17" href="Text/08-17-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B18" href="Text/08-18-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B19" href="Text/08-19-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B20" href="Text/08-20-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B21" href="Text/08-21-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B22" href="Text/08-22-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B23" href="Text/08-23-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B24" href="Text/08-24-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B25" href="Text/08-25-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B26" href="Text/08-26-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B27" href="Text/08-27-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B28" href="Text/08-28-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B29" href="Text/08-29-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B30" href="Text/08-30-2026.html" media-type="application/xhtml+xml"/>
+    <item id="B31" href="Text/08-31-2026.html" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverpage"/>
+    <itemref idref="titlepage"/>
+    <itemref idref="B1"/>
+    <itemref idref="B2"/>
+    <itemref idref="B3"/>
+    <itemref idref="B4"/>
+    <itemref idref="B5"/>
+    <itemref idref="B6"/>
+    <itemref idref="B7"/>
+    <itemref idref="B8"/>
+    <itemref idref="B9"/>
+    <itemref idref="B10"/>
+    <itemref idref="B11"/>
+    <itemref idref="B12"/>
+    <itemref idref="B13"/>
+    <itemref idref="B14"/>
+    <itemref idref="B15"/>
+    <itemref idref="B16"/>
+    <itemref idref="B17"/>
+    <itemref idref="B18"/>
+    <itemref idref="B19"/>
+    <itemref idref="B20"/>
+    <itemref idref="B21"/>
+    <itemref idref="B22"/>
+    <itemref idref="B23"/>
+    <itemref idref="B24"/>
+    <itemref idref="B25"/>
+    <itemref idref="B26"/>
+    <itemref idref="B27"/>
+    <itemref idref="B28"/>
+    <itemref idref="B29"/>
+    <itemref idref="B30"/>
+    <itemref idref="B31"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/coverpage.html"/>
+  </guide>
+</package>

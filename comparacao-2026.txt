@@ -1,0 +1,183 @@
+blocos conferidos: 12982
+celulas da matriz com discordancia: 19
+
+==============================================================================
+  ONDE A MATRIZ DISCORDA DO GERADOR
+==============================================================================
+
+Terca, Sexta e Noa — Capitulo e responsorio breve — coluna FER   (38 dias)
+   a matriz diz : Ord+Ps ou PdT
+   o gerador dá : CS (34 dias), PS (4 dias)
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      ... e mais 35 dias
+
+Terca, Sexta e Noa — Oracao — coluna FER   (21 dias)
+   a matriz diz : oracao do domingo anterior ou PdT ou a oracao propria da vigilia
+   o gerador dá : PS (21 dias)
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      ... e mais 18 dias
+
+Matinas — Invitatorio — coluna FER   (14 dias)
+   a matriz diz : Ord+Ps
+   o gerador dá : CS (13 dias), PS (1 dias)
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      01-05-2026  Die Quinta Januarii ~ IV. classis  ->  CS
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  CS
+      ... e mais 11 dias
+
+Vesperas — Antifonas — coluna DOM   (14 dias)
+   a matriz diz : Ord+Ps
+   o gerador dá : PdT (14 dias)
+      04-05-2026  Dominica Resurrectionis ~ I. classis  ->  PdT
+      05-23-2026  Dominica Pentecostes ~ I. classis  ->  PdT
+      05-24-2026  Dominica Pentecostes ~ I. classis  ->  PdT
+      ... e mais 11 dias
+
+Matinas — Hino — coluna FER   (12 dias)
+   a matriz diz : Ord+Ps
+   o gerador dá : CS (12 dias)
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      01-05-2026  Die Quinta Januarii ~ IV. classis  ->  CS
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  CS
+      ... e mais 9 dias
+
+Laudes — Capitulo, hino e versiculo — coluna FER   (12 dias)
+   a matriz diz : Ord+Ps ou PdT
+   o gerador dá : CS (10 dias), PS (2 dias)
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      01-05-2026  Die Quinta Januarii ~ IV. classis  ->  CS
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  CS
+      ... e mais 9 dias
+
+Laudes — Antifonas — coluna FER   (11 dias)
+   a matriz diz : Ps.dia
+   o gerador dá : PdT (6 dias), CS (4 dias), PS (1 dias)
+      03-30-2026  Feria Secunda Hebdomadæ Sanctæ ~ I. classis  ->  PdT
+      03-31-2026  Feria Tertia Hebdomadæ Sanctæ ~ I. classis  ->  PdT
+      04-01-2026  Feria Quarta Hebdomadæ Sanctæ ~ I. classis  ->  PdT
+      ... e mais 8 dias
+
+Vesperas — Capitulo, hino e versiculo — coluna FER   (9 dias)
+   a matriz diz : Ord+Ps ou PdT
+   o gerador dá : CS (8 dias), PS (1 dias)
+      01-02-2026  Die Secunda Januarii ~ IV. classis  ->  CS
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  CS
+      01-08-2026  Die Octava Januarii ~ IV. classis  ->  CS
+      ... e mais 6 dias
+
+Matinas — Invitatorio — coluna DOM   (9 dias)
+   a matriz diz : Ord+Ps
+   o gerador dá : PdT (7 dias), CS (2 dias)
+      02-01-2026  Dominica in Septuagesima ~ II. classis  ->  PdT
+      02-08-2026  Dominica in Sexagesima ~ II. classis  ->  PdT
+      02-15-2026  Dominica in Quinquagesima ~ II. classis  ->  PdT
+      ... e mais 6 dias
+
+Laudes — Antifona do Benedictus — coluna FER   (7 dias)
+   a matriz diz : PdT
+   o gerador dá : PS (7 dias)
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      01-08-2026  Die Octava Januarii ~ IV. classis  ->  PS
+      01-09-2026  Die Nona Januarii ~ IV. classis  ->  PS
+      ... e mais 4 dias
+
+Laudes — Oracao — coluna FER   (7 dias)
+   a matriz diz : oracao do domingo anterior ou PdT ou a oracao propria da vigilia
+   o gerador dá : PS (7 dias)
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      01-08-2026  Die Octava Januarii ~ IV. classis  ->  PS
+      01-09-2026  Die Nona Januarii ~ IV. classis  ->  PS
+      ... e mais 4 dias
+
+Matinas — Antifonas e salmos do nocturno — coluna FER   (7 dias)
+   a matriz diz : Ps.dia
+   o gerador dá : PdT (7 dias)
+      04-02-2026  Feria Quinta in Cena Domini ~ I. classis  ->  PdT
+      04-03-2026  Feria Sexta in Passione et Morte Domini ~ I. classis  ->  PdT
+      04-04-2026  Sabbato Sancto ~ I. classis  ->  PdT
+      ... e mais 4 dias
+
+Vesperas — Antifonas — coluna FER   (5 dias)
+   a matriz diz : Ps.dia
+   o gerador dá : PdT (3 dias), CS (2 dias)
+      04-02-2026  Feria Quinta in Cena Domini ~ I. classis  ->  PdT
+      04-03-2026  Feria Sexta in Passione et Morte Domini ~ I. classis  ->  PdT
+      04-04-2026  Sabbato Sancto ~ I. classis  ->  PdT
+      ... e mais 2 dias
+
+Vesperas — Antifona do Magnificat — coluna FER   (4 dias)
+   a matriz diz : PdT
+   o gerador dá : PS (4 dias)
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      01-08-2026  Die Octava Januarii ~ IV. classis  ->  PS
+      01-09-2026  Die Nona Januarii ~ IV. classis  ->  PS
+      ... e mais 1 dias
+
+Vesperas — Oracao — coluna FER   (4 dias)
+   a matriz diz : oracao do domingo anterior ou PdT ou a oracao propria da vigilia
+   o gerador dá : PS (4 dias)
+      01-07-2026  Die Septima Januarii ~ IV. classis  ->  PS
+      01-08-2026  Die Octava Januarii ~ IV. classis  ->  PS
+      01-09-2026  Die Nona Januarii ~ IV. classis  ->  PS
+      ... e mais 1 dias
+
+Matinas — Antifonas e salmos do nocturno — coluna DOM   (4 dias)
+   a matriz diz : Ps.dom
+   o gerador dá : PdT (3 dias), CS (1 dias)
+      04-05-2026  Dominica Resurrectionis ~ I. classis  ->  PdT
+      05-24-2026  Dominica Pentecostes ~ I. classis  ->  PdT
+      05-31-2026  Dominica Sanctissimæ Trinitatis ~ I. classis  ->  PdT
+      ... e mais 1 dias
+
+Matinas — Hino — coluna DOM   (4 dias)
+   a matriz diz : Ord+Ps
+   o gerador dá : CS (2 dias), PdT (2 dias)
+      05-17-2026  Dominica post Ascensionem ~ II. classis  ->  CS
+      05-24-2026  Dominica Pentecostes ~ I. classis  ->  PdT
+      05-31-2026  Dominica Sanctissimæ Trinitatis ~ I. classis  ->  PdT
+      ... e mais 1 dias
+
+Terca, Sexta e Noa — Oracao — coluna I   (3 dias)
+   a matriz diz : Pr>Com
+   o gerador dá : Ord (3 dias)
+      11-02-2026  In Commemoratione Omnium Fidelium Defunctorum ~ I. classis  ->  Ord
+      11-02-2026  In Commemoratione Omnium Fidelium Defunctorum ~ I. classis  ->  Ord
+      11-02-2026  In Commemoratione Omnium Fidelium Defunctorum ~ I. classis  ->  Ord
+
+Laudes — Antifonas — coluna DOM   (1 dias)
+   a matriz diz : Ps.dom ou PdT
+   o gerador dá : CS (1 dias)
+      12-27-2026  Dominica Infra Octavam Nativitatis ~ II. classis  ->  CS
+
+==============================================================================
+  BLOCOS QUE A MATRIZ NÃO COBRE
+==============================================================================
+    365  ('Matutinum', 'Oratio')
+    362  ('Matutinum', 'Conclusio')
+    362  ('Laudes', 'Conclusio')
+    362  ('Prima', 'Martyrologium')
+    362  ('Vespera', 'Conclusio')
+    361  ('Laudes', 'Incipit')
+    361  ('Prima', 'De Officio Capituli')
+    361  ('Tertia', 'Incipit')
+    361  ('Tertia', 'Conclusio')
+    361  ('Sexta', 'Incipit')
+    361  ('Sexta', 'Conclusio')
+    361  ('Nona', 'Incipit')
+    361  ('Nona', 'Conclusio')
+    361  ('Vespera', 'Incipit')
+    360  ('Matutinum', 'Incipit')
+    354  ('Tertia', 'Hymnus')
+    354  ('Sexta', 'Hymnus')
+    354  ('Nona', 'Hymnus')
+     46  ('Matutinum', 'Lectio 4')
+     46  ('Matutinum', 'Lectio 5')
+
+  BLOCOS EM QUE O GERADOR NÃO INFORMA A ORIGEM:
+    365  ('Matutinum', 'Lectio 1')
+    365  ('Matutinum', 'Lectio 2')
+    365  ('Matutinum', 'Lectio 3')

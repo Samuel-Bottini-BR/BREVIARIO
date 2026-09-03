@@ -1,0 +1,20 @@
+NAO USAR NESTE PROJETO
+======================
+
+Os arquivos desta pasta sao da LITURGIA DAS HORAS (reforma de 1970).
+
+Nao servem ao Breviario Romano de 1960:
+- salterio de quatro semanas, e nao de uma
+- nao tem Prima
+- calendario reformado
+- hinos trocados
+
+Nem os salmos servem, porque a distribuicao pela semana e outra.
+
+Sao publicacoes recentes e protegidas por direito autoral.
+
+Nenhum script deste projeto deve ler esta pasta.
+Nenhum texto daqui pode entrar no corpus.
+
+Se aparecer material liturgico em portugues sem origem clara no corpus,
+verifique se nao veio daqui.

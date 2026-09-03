@@ -1,0 +1,1700 @@
+<?xml version="1.0"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="0fcdb866-fa57-4d9f-b14d-b0d1ec820b9f"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="-1"/>
+    <meta name="dtb:maxPageNumber" content="-1"/>
+  </head>
+  <docTitle>
+    <text>Divinum officium</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0" playOrder="0">
+      <navLabel>
+        <text>Cover page</text>
+      </navLabel>
+      <content src="Text/coverpage.html"/>
+    </navPoint>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Title page</text>
+      </navLabel>
+      <content src="Text/titlepage.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Aug 1 Sanctæ Mariæ Sabbato</text>
+      </navLabel>
+      <content src="Text/08-01-2026.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-01-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Aug 2 Dominica X Post Pentecosten I. Augusti</text>
+      </navLabel>
+      <content src="Text/08-02-2026.html"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-02-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Aug 3 Feria secunda infra Hebdomadam X post Octavam Pentecostes I. Augusti</text>
+      </navLabel>
+      <content src="Text/08-03-2026.html"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-03-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Aug 4 S. Dominici Confessoris</text>
+      </navLabel>
+      <content src="Text/08-04-2026.html"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-04-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Aug 5 Sanctæ Mariæ Virginis ad Nives</text>
+      </navLabel>
+      <content src="Text/08-05-2026.html"/>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-05-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Aug 6 In Transfiguratione Domini Nostri Jesu Christi</text>
+      </navLabel>
+      <content src="Text/08-06-2026.html"/>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-06-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Aug 7 S. Cajetani Confessoris</text>
+      </navLabel>
+      <content src="Text/08-07-2026.html"/>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-07-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Aug 8 S. Joannis Mariæ Vianney Confessoris</text>
+      </navLabel>
+      <content src="Text/08-08-2026.html"/>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-08-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Aug 9 Dominica XI Post Pentecosten II. Augusti</text>
+      </navLabel>
+      <content src="Text/08-09-2026.html"/>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-09-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>Aug 10 S. Laurentii Martyris</text>
+      </navLabel>
+      <content src="Text/08-10-2026.html"/>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-10-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>Aug 11 Feria tertia infra Hebdomadam XI post Octavam Pentecostes II. Augusti</text>
+      </navLabel>
+      <content src="Text/08-11-2026.html"/>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-11-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>Aug 12 S. Claræ Virginis</text>
+      </navLabel>
+      <content src="Text/08-12-2026.html"/>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-12-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>Aug 13 Feria quinta infra Hebdomadam XI post Octavam Pentecostes II. Augusti</text>
+      </navLabel>
+      <content src="Text/08-13-2026.html"/>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-13-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>Aug 14 In Vigilia Assumptionis B.M.V.</text>
+      </navLabel>
+      <content src="Text/08-14-2026.html"/>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-14-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>Aug 15 In Assumptione Beatæ Mariæ Virginis</text>
+      </navLabel>
+      <content src="Text/08-15-2026.html"/>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-15-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>Aug 16 Dominica XII Post Pentecosten III. Augusti</text>
+      </navLabel>
+      <content src="Text/08-16-2026.html"/>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-16-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>Aug 17 S. Hyacinthi Confessoris</text>
+      </navLabel>
+      <content src="Text/08-17-2026.html"/>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-17-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-155" playOrder="155">
+      <navLabel>
+        <text>Aug 18 Feria Tertia infra Hebdomadam XII post Octavam Pentecostes III. Augusti</text>
+      </navLabel>
+      <content src="Text/08-18-2026.html"/>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-18-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-164" playOrder="164">
+      <navLabel>
+        <text>Aug 19 S. Joannis Eudes Confessoris</text>
+      </navLabel>
+      <content src="Text/08-19-2026.html"/>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-19-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>Aug 20 S. Bernardi Abbatis et Ecclesiæ Doctoris</text>
+      </navLabel>
+      <content src="Text/08-20-2026.html"/>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-20-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>Aug 21 S. Joannæ Franciscæ Frémiot de Chantal Viduæ</text>
+      </navLabel>
+      <content src="Text/08-21-2026.html"/>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-21-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>Aug 22 Immaculati Cordis Beatæ Mariæ Virginis</text>
+      </navLabel>
+      <content src="Text/08-22-2026.html"/>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-22-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-200" playOrder="200">
+      <navLabel>
+        <text>Aug 23 Dominica XIII Post Pentecosten IV. Augusti</text>
+      </navLabel>
+      <content src="Text/08-23-2026.html"/>
+      <navPoint id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-23-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-209" playOrder="209">
+      <navLabel>
+        <text>Aug 24 S. Bartholomæi Apostoli</text>
+      </navLabel>
+      <content src="Text/08-24-2026.html"/>
+      <navPoint id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-24-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-218" playOrder="218">
+      <navLabel>
+        <text>Aug 25 S. Ludovici Regis Franciæ Confessoris</text>
+      </navLabel>
+      <content src="Text/08-25-2026.html"/>
+      <navPoint id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-25-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-227" playOrder="227">
+      <navLabel>
+        <text>Aug 26 Feria Quarta infra Hebdomadam XIII post Octavam Pentecostes IV. Augusti</text>
+      </navLabel>
+      <content src="Text/08-26-2026.html"/>
+      <navPoint id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-230" playOrder="230">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-233" playOrder="233">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-234" playOrder="234">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-235" playOrder="235">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-26-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-236" playOrder="236">
+      <navLabel>
+        <text>Aug 27 S. Josephi Calasanctii Confessoris</text>
+      </navLabel>
+      <content src="Text/08-27-2026.html"/>
+      <navPoint id="navPoint-237" playOrder="237">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-239" playOrder="239">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-240" playOrder="240">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-241" playOrder="241">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-242" playOrder="242">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-243" playOrder="243">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-244" playOrder="244">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-27-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-245" playOrder="245">
+      <navLabel>
+        <text>Aug 28 S. Augustini Episcopi et Confessoris et Ecclesiæ Doctoris</text>
+      </navLabel>
+      <content src="Text/08-28-2026.html"/>
+      <navPoint id="navPoint-246" playOrder="246">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-247" playOrder="247">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-248" playOrder="248">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-249" playOrder="249">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-251" playOrder="251">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-253" playOrder="253">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-28-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-254" playOrder="254">
+      <navLabel>
+        <text>Aug 29 In Decollatione S. Joannis Baptistæ</text>
+      </navLabel>
+      <content src="Text/08-29-2026.html"/>
+      <navPoint id="navPoint-255" playOrder="255">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-256" playOrder="256">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-257" playOrder="257">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-258" playOrder="258">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-259" playOrder="259">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-260" playOrder="260">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-261" playOrder="261">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-262" playOrder="262">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-29-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-263" playOrder="263">
+      <navLabel>
+        <text>Aug 30 Dominica XIV Post Pentecosten V. Augusti</text>
+      </navLabel>
+      <content src="Text/08-30-2026.html"/>
+      <navPoint id="navPoint-264" playOrder="264">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-265" playOrder="265">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-266" playOrder="266">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-267" playOrder="267">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-268" playOrder="268">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-269" playOrder="269">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-270" playOrder="270">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-271" playOrder="271">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-30-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-272" playOrder="272">
+      <navLabel>
+        <text>Aug 31 S. Raymundi Nonnati Confessoris</text>
+      </navLabel>
+      <content src="Text/08-31-2026.html"/>
+      <navPoint id="navPoint-273" playOrder="273">
+        <navLabel>
+          <text>Matutinum</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Matutinumtop"/>
+      </navPoint>
+      <navPoint id="navPoint-274" playOrder="274">
+        <navLabel>
+          <text>Laudes</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Laudestop"/>
+      </navPoint>
+      <navPoint id="navPoint-275" playOrder="275">
+        <navLabel>
+          <text>Prima</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Primatop"/>
+      </navPoint>
+      <navPoint id="navPoint-276" playOrder="276">
+        <navLabel>
+          <text>Tertia</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Tertiatop"/>
+      </navPoint>
+      <navPoint id="navPoint-277" playOrder="277">
+        <navLabel>
+          <text>Sexta</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Sextatop"/>
+      </navPoint>
+      <navPoint id="navPoint-278" playOrder="278">
+        <navLabel>
+          <text>Nona</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Nonatop"/>
+      </navPoint>
+      <navPoint id="navPoint-279" playOrder="279">
+        <navLabel>
+          <text>Vesperae</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Vesperatop"/>
+      </navPoint>
+      <navPoint id="navPoint-280" playOrder="280">
+        <navLabel>
+          <text>Completorium</text>
+        </navLabel>
+        <content src="Text/08-31-2026.html#Completoriumtop"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
